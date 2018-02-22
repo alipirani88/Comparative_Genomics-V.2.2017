@@ -60,7 +60,8 @@ http://pad.software-carpentry.org/micro612_bacterial_genomics_workshop
 - [Phylogenetic tree annotation and visualization](https://github.com/alipirani88/Comparative_Genomics/blob/master/day3_afternoon/README.md#phylogenetic-tree-annotation-and-visualization)
 - [Assessment of genomic deletions](https://github.com/alipirani88/Comparative_Genomics/blob/master/day3_afternoon/README.md#assessment-of-genomic-deletions)
 
-- [Helpful resources for microbial genomics](https://github.com/alipirani88/Comparative_Genomics/blob/master/online_resources/README.md#helpful-resources-for-microbial-genomics)
+
+[Helpful resources for microbial genomics](https://github.com/alipirani88/Comparative_Genomics/blob/master/online_resources/README.md#helpful-resources-for-microbial-genomics)
 ***
 
 ***
